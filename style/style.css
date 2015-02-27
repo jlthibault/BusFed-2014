@@ -155,7 +155,7 @@ nav li > .active {
 .section {
   min-height: 40em;
   margin: 0 auto;
-  background: blue;
+  background: rgba(98, 74, 222, 0.9);
   padding: 1em 0 3em;
 }
 
@@ -168,7 +168,7 @@ h1 {
 }
 
 #of {
-  background: red;
+  background: rgba(155, 24, 44, 0.9);
 }
 
 #for {
@@ -176,7 +176,7 @@ h1 {
 }
 
 #by {
-  background: blue;
+  background: rgba(98, 74, 222, 0.9);
 }
 
 
